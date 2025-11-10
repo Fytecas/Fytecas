@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🦀Rust enjoyer🦀
+
 You can contact me on discord if you want, my username is __pixi (you could also send me an email at dario.lehy@ik.me)
 
 <!--
