@@ -2,7 +2,9 @@
 
 🦀Rust enjoyer🦀
 
-You can contact me on discord if you want, my username is __pixi (you could also send me an email at dario.lehy@ik.me)
+I live in France 🇫🇷, and also I speak Italian 🇮🇹
+
+You can contact me on discord if you want, my username is __pixi (you could also send me an email at dario.lehy@ik.me).
 
 <!--
 **Fytecas/Fytecas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
